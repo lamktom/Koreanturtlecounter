@@ -1,0 +1,39 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	background-image: url("https://static.meijer.com/Media/005/15000/0051500048184_a1c1_0600.png");
+	font-size: 75px;
+}
+
+#container {
+	display: block;
+	margin: auto;
+	width: 50%;
+	margin-top: 250px;
+	background-color: rgba(255, 255, 255, 0.9);
+	border: 5px dashed black;
+}
+
+.title {
+	display: block;
+	text-align: center;
+}
+
+.counter {
+	text-align: center;
+}
+
+.num {
+	font-weight: bolder;
+}
+
+/*.less {
+	display: inline-block;
+	position: absolute;
+	left: 0;
+}
+
+.more {
+	display: inline-block;
+	position: absolute;
+	right: 0;
+}*/
