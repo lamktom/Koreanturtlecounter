@@ -1,2 +1,2 @@
-# Uncrustacounter
-https://lamktom.github.io/Uncrustacounter/
+# Koreanturtlecounter
+https://lamktom.github.io/Koreanturtlecounter/
